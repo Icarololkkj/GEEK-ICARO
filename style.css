@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(255, 210, 113);
+    margin: 0;
+}
+header{
+    background-color: rgba(255, 238, 219, 0.959);
+}
+main img{
+    width: 750px;
+}
+main{
+    max-width: 70%;
+    margin: auto;
+}
+p {
+font-family: Arial, sans-serif;
+font-size: 18px;
+font-weight: bold;
+font-style: italic;
+}
+section{
+    background-color: rgb(255, 249, 224);
+    padding: 20px;
+    margin: 30px;
+}
+button {
+background-color: rgb(83, 16, 14);
+color: white;
+padding: 10px 20px;
+border: none;
+border-radius: 5px;
+}
+button {
+background-color: rgb(172, 34, 34);
+}
+
+button:hover {
+background-color: rgb(80, 15, 15);
+}
